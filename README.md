@@ -24,3 +24,14 @@ The primary goals of this analysis are to:
 2. **Predict Total and Average Scores:**
    - Build predictive models to estimate total and average scores based on available features.
 
+## Dependencies
+- Python 3
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+## Getting Started
+1. Clone the repository.
+2. Install the required dependencies using `pip install -r requirements.txt`.
+3. Run the main script: `python main.py`.
