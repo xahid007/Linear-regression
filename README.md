@@ -29,9 +29,9 @@ The primary goals of this analysis are to:
 - Pandas
 - NumPy
 - Matplotlib
-- Scikit-learn
+
 
 ## Getting Started
 1. Clone the repository.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the main script: `python main.py`.
+3. Run the main script: `python Linear Regression.ipynb`.
