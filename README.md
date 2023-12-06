@@ -34,4 +34,4 @@ The primary goals of this analysis are to:
 ## Getting Started
 1. Clone the repository.
 2. Install the required dependencies using `conda install --file requirements.txt`.
-3. Run the main script: `python Linear Regression.ipynb`.
+3. Run the main script: `Linear Regression.ipynb`.
